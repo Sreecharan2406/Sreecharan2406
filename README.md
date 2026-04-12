@@ -43,9 +43,8 @@ Git • GitHub • VS Code
 ### Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME" />
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=default&hide_border=true" />
 </p>
-
 ---
 
 ### Focus
