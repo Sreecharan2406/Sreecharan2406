@@ -40,13 +40,6 @@ Git • GitHub • VS Code
 
 ---
 
-### Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=default&hide_border=true" />
-</p>
----
-
 ### Focus
 
 Currently focused on becoming a highly skilled developer by building real-world projects, mastering fundamentals, and continuously improving problem-solving abilities.
