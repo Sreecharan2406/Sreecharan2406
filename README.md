@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Rajanikanth Sreecharan</h1>
+<h1 align="center">Hi, I'm Sreecharan R</h1>
 <h3 align="center">Aspiring Software Developer | Problem Solver | Tech Enthusiast</h3>
 
 ---
