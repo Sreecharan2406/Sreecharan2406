@@ -1,55 +1,116 @@
-<h1 align="center">Hi, I'm Sreecharan R</h1>
-<h3 align="center">Aspiring Software Developer | Problem Solver | Tech Enthusiast</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sreecharan2406&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXB1MWNkOTJjY3Rma3hjejJ5cXpxbjJsbjl6bXp0MDloNWdraW5uMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g2jj9VAIBluIreVNsb/giphy.gif" width="100%" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Sreecharan R</h1>
+
+<h3 align="center">
+Aspiring Software Developer | Problem Solver | Tech Enthusiast
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Aspiring+Software+Developer;Java+%7C+C%2B%2B+%7C+Full+Stack+Learner;Building+Projects+That+Solve+Problems" />
+</p>
 
 ---
 
-### About Me
+## 🚀 About Me
 
-- Currently developing full-stack applications with a focus on scalable and user-centric platforms, including a Skill Swap Platform with authentication and profile management features.  
-- Interested in collaborating on software development, AI-based solutions, and real-world problem-solving systems.  
-- Actively improving skills in Data Structures & Algorithms, Object-Oriented Design, and backend development.  
-- Learning core subjects including Java, C++, Operating Systems, and advanced OOP concepts.  
-- Experience working on projects such as Snake Pathfinding AI, Football IQ Analysis, and system design implementations using UML.  
-- Open to discussions on development, optimization, and building impactful projects.  
-
----
-
-### Tech Stack
-
-**Languages:**  
-Java • C++ • C • Python  
-
-**Core Concepts:**  
-Data Structures & Algorithms • Object-Oriented Programming • Operating Systems  
-
-**Tools & Technologies:**  
-Git • GitHub • VS Code  
+- 🌱 Currently developing full-stack applications with scalable and user-centric design.
+- 💡 Interested in AI-based solutions, backend systems, and real-world problem solving.
+- 🧠 Improving skills in Data Structures & Algorithms, OOP, and backend development.
+- ⚙️ Learning Java, C++, Operating Systems, and advanced software engineering concepts.
+- 🎯 Built projects like **CollabBoard**, **Code Pulse**, and **Football IQ Analysis**.
+- 🤝 Open to collaboration on impactful software projects and innovative ideas.
 
 ---
 
-### Projects
+## 🛠️ Tech Stack
 
-- **Collabboard**  
- A collaborative platform that connects people to share, learn, and exchange skills through user profiles, secure authentication, and an interactive community-driven interface.
+<h3 align="center">💻 Languages</h3>
 
-- **Code Pulse**  
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-283593?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+<h3 align="center">🌐 Web Development</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+</p>
+
+<h3 align="center">⚙️ Tools & Technologies</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 CollabBoard
+
+A collaborative platform that connects people to share, learn, and exchange skills through user profiles, secure authentication, and an interactive community-driven interface.
+
+### 🔹 Code Pulse
+
 A Java CLI tool for analyzing code complexity through loop and recursion detection, helping developers understand performance bottlenecks, optimize logic flow, and improve overall code efficiency.
 
-- **Football IQ Analysis**  
-  A project focused on analyzing decision-making and intelligence in football scenarios.
+### 🔹 Football IQ Analysis
+
+A project focused on analyzing player decision-making, tactical awareness, and intelligence in football scenarios using analytical approaches.
 
 ---
 
-### Focus
+## 📚 Current Focus
 
-Currently focused on becoming a highly skilled developer by building real-world projects, mastering fundamentals, and continuously improving problem-solving abilities.
+- Mastering Data Structures & Algorithms
+- Building real-world full-stack projects
+- Strengthening backend development skills
+- Improving problem-solving and system design abilities
 
+---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sreecharan-r-b593b1319) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rsree2406@gmail.com) 
+## 📊 GitHub Stats
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat&logo=angularjs&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=flat&logo=javafx&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=flat&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=flat&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=flat&logo=sketch&logoColor=black) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=flat&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat&logo=nVIDIA&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=flat&logo=Meta&logoColor=white)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sreecharan2406&show_icons=true&theme=tokyonight" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sreecharan2406&theme=tokyonight" />
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sreecharan2406&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/sreecharan-r-b593b1319">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+
+  <a href="mailto:rsree2406@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
