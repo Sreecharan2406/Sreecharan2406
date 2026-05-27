@@ -29,11 +29,11 @@ Git • GitHub • VS Code
 
 ### Projects
 
-- **Skill Swap Platform**  
-  A full-stack web application enabling users to exchange skills, featuring authentication, profile management, and interactive UI.
+- **Collabboard**  
+ A collaborative platform that connects people to share, learn, and exchange skills through user profiles, secure authentication, and an interactive community-driven interface.
 
-- **Snake Pathfinding AI**  
-  Implemented intelligent pathfinding algorithms to optimize snake movement and decision-making.
+- **Code Pulse**  
+A Java CLI tool for analyzing code complexity through loop and recursion detection, helping developers understand performance bottlenecks, optimize logic flow, and improve overall code efficiency.
 
 - **Football IQ Analysis**  
   A project focused on analyzing decision-making and intelligence in football scenarios.
