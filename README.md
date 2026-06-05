@@ -98,27 +98,6 @@ I don't just learn — I build things that work.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sreecharan2406&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00f5ff&icon_color=a78bfa&text_color=ffffff" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sreecharan2406&theme=tokyonight&hide_border=true&background=0f0c29&ring=00f5ff&fire=a78bfa&currStreakLabel=00f5ff" />
-</div>
-
-<div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sreecharan2406&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00f5ff&text_color=ffffff" />
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sreecharan2406&theme=tokyo-night&hide_border=true&bg_color=0f0c29&color=00f5ff&line=a78bfa&point=ffffff" />
-</div>
-
----
-
 ## 🌐 Let's Connect
 
 <div align="center">
