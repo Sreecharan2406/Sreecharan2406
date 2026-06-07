@@ -1,11 +1,6 @@
 <div align="center">
-
-<!-- Animated Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sreecharan%20R&fontSize=60&fontColor=00f5ff&fontAlignY=38&desc=Software%20Developer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=60&descColor=a78bfa&animation=fadeIn"/>
-
-<!-- Profile Views -->
 <img src="https://komarev.com/ghpvc/?username=Sreecharan2406&label=Profile+Views&color=302b63&style=for-the-badge&labelColor=0f0c29" />
-
 </div>
 
 ---
@@ -80,12 +75,23 @@ I don't just learn — I build things that work.
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <h3>🔹 CDMS — Chennai Drainage Management System</h3>
+      <p>A full-stack infrastructure management system with role-based auth, REST API, SQLite database, real-time analytics, admin report verification, and maintenance scheduling — built without any frontend framework.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Backend-Python%20%7C%20Flask-00C853?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Database-SQLite3-00C853?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Frontend-Vanilla%20JS-00C853?style=flat-square"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h3>🔹 Football IQ Analysis</h3>
       <p>An analytics project that breaks down player decision-making and tactical awareness in football scenarios — merging my love for the game with data.</p>
       <p>
         <img src="https://img.shields.io/badge/Domain-Sports%20Analytics-a78bfa?style=flat-square"/>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🔜 What's Next?</h3>
       <p>Working on something bigger — integrating AI into real-world apps. Stay tuned.</p>
@@ -93,6 +99,7 @@ I don't just learn — I build things that work.
         <img src="https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square"/>
       </p>
     </td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
