@@ -93,13 +93,20 @@ I don't just learn — I build things that work.
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <h3>🔹 Mock Interview Practice App</h3>
+      <p>A curated interview-prep platform covering 5 roles (Software Engineer, Frontend, Backend, Data Scientist, Product Manager) across 3 difficulty levels. Ships with a built-in hint system, self-rating after each answer, and a full end-of-session report with answer review — no AI, no API keys, just a clean Express backend.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Express-339933?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS%20%7C%20JS-00f5ff?style=flat-square"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h3>🔜 What's Next?</h3>
       <p>Working on something bigger — integrating AI into real-world apps. Stay tuned.</p>
       <p>
         <img src="https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square"/>
       </p>
     </td>
-    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
